@@ -11,4 +11,4 @@ The output of the python code file (i.e. all visualizations) is integrated into 
 The integrated dash view with all the visualizations (tab view) can be seen in the following image:
 
 
-![alt text](https://github.com/vargo96/idv-covid19/blob/master/dash.PNG?raw=true "Dash application with all the visualizations")
+![alt text](https://github.com/Lalith-Sagar-Devagudi/IDV-COVID19/blob/master/dash.PNG?raw=true "Dash application with all the visualizations")
